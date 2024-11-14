@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0%;
+}
+
+.randomNumber {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  background: rgb(202, 56, 225);
+  background: linear-gradient(0deg, rgb(137, 103, 222) 0%, rgb(191, 71, 215) 100%);
+  
+}
+
+.container {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  margin: auto;
+  background-color: rgb(202, 209, 216);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.container h2 {
+  display: inline-block;
+  font-size: 40px;
+  border-radius: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: rgb(166, 157, 140);
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+  border-radius: 10px;
+}
